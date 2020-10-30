@@ -7,7 +7,7 @@ int odd=0,even=0,x=1;//declaring variables
 for(int i=1;i<=10;i++)
 
 {
-printf("Enter Number : ");
+printf("Enter Number : ");//get user inputs
 scanf("%d",&x);
 
 if(x%2==0){
