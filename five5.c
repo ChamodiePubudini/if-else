@@ -19,7 +19,7 @@ else{
 
 }
 
-printf("Total Number of even is %d \n",even);
+printf("Total Number of even is %d \n",even);//display
 printf("Total Number of odd is %d \n",odd);
     
     return 0;
